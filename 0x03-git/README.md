@@ -1,1 +1,1 @@
-I just created a readme
+Stay updated with the changes i make
