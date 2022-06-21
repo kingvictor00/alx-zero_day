@@ -1,1 +1,1 @@
-I just created a new directory
+My first readme
